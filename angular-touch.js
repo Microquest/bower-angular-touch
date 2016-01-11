@@ -1,6 +1,6 @@
 /**
- * @license AngularJS v1.5.0-build.4291+sha.693021c
- * (c) 2010-2015 Google, Inc. http://angularjs.org
+ * @license AngularJS v1.5.0-build.4493+sha.8ccc054
+ * (c) 2010-2016 Google, Inc. http://angularjs.org
  * License: MIT
  */
 (function(window, angular, undefined) {'use strict';
@@ -43,8 +43,7 @@ function nodeName_(element) {
      *
      * Requires the {@link ngTouch `ngTouch`} module to be installed.
      *
-     * `$swipe` is used by the `ngSwipeLeft` and `ngSwipeRight` directives in `ngTouch`, and by
-     * `ngCarousel` in a separate component.
+     * `$swipe` is used by the `ngSwipeLeft` and `ngSwipeRight` directives in `ngTouch`.
      *
      * # Usage
      * The `$swipe` service is an object with a single method: `bind`. `bind` takes an element
